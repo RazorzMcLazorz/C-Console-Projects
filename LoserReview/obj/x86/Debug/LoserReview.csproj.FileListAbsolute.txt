@@ -1,0 +1,6 @@
+C:\Users\worthnat000\AppData\Local\Temporary Projects\LoserReview\bin\Debug\LoserReview.exe
+C:\Users\worthnat000\AppData\Local\Temporary Projects\LoserReview\bin\Debug\LoserReview.pdb
+C:\Users\worthnat000\AppData\Local\Temporary Projects\LoserReview\obj\x86\Debug\LoserReview.exe
+C:\Users\worthnat000\AppData\Local\Temporary Projects\LoserReview\obj\x86\Debug\LoserReview.pdb
+C:\Users\worthnat000\documents\visual studio 2010\Projects\LoserReview\LoserReview\obj\x86\Debug\LoserReview.exe
+C:\Users\worthnat000\documents\visual studio 2010\Projects\LoserReview\LoserReview\obj\x86\Debug\LoserReview.pdb

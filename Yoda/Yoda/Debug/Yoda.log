@@ -1,0 +1,6 @@
+﻿  Driver.cpp
+e:\programs\yoda\yoda\driver.cpp(12): error C2676: binary '[': 'std::queue<std::string,std::deque<_Ty,std::allocator<_Ty>>>' does not define this operator or a conversion to a type acceptable to the predefined operator
+          with
+          [
+              _Ty=std::string
+          ]

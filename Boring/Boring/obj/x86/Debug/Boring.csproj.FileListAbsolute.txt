@@ -1,0 +1,6 @@
+C:\Users\heathspe000\documents\visual studio 2010\Projects\Boring\Boring\bin\Debug\Boring.exe
+C:\Users\heathspe000\documents\visual studio 2010\Projects\Boring\Boring\bin\Debug\Boring.pdb
+C:\Users\heathspe000\documents\visual studio 2010\Projects\Boring\Boring\obj\x86\Debug\Boring.exe
+C:\Users\heathspe000\documents\visual studio 2010\Projects\Boring\Boring\obj\x86\Debug\Boring.pdb
+E:\Boring\Boring\obj\x86\Debug\Boring.exe
+E:\Boring\Boring\obj\x86\Debug\Boring.pdb

@@ -1,0 +1,7 @@
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\Oship\bin\Release\Oship.exe
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\Oship\bin\Release\Oship.pdb
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\Oship\obj\x86\Release\Oship.Form1.resources
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\Oship\obj\x86\Release\Oship.Properties.Resources.resources
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\Oship\obj\x86\Release\Oship.csproj.GenerateResource.Cache
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\Oship\obj\x86\Release\Oship.exe
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\Oship\obj\x86\Release\Oship.pdb

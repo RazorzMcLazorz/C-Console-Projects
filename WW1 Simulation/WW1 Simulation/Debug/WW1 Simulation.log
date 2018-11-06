@@ -1,0 +1,6 @@
+﻿  WW.cpp
+e:\ww1 simulation\ww1 simulation\ww.cpp(7): warning C4101: 'Select': unreferenced local variable
+e:\ww1 simulation\ww1 simulation\ww.cpp(5): warning C4101: 'UsaL': unreferenced local variable
+e:\ww1 simulation\ww1 simulation\ww.cpp(5): warning C4101: 'SerbiaL': unreferenced local variable
+  WW1 Simulation.vcxproj -> E:\WW1 Simulation\Debug\WW1 Simulation.exe
+  WW1 Simulation.vcxproj -> E:\WW1 Simulation\Debug\WW1 Simulation.pdb (Partial PDB)

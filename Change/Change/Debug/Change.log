@@ -1,0 +1,22 @@
+﻿Build started 1/23/2017 9:58:34 AM.
+     1>Project "C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Change\Change\Change.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Change.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt changling.cpp
+         changling.cpp
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\change\change\changling.cpp(13): warning C4101: 'money' : unreferenced local variable
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\change\change\changling.cpp(13): warning C4101: 'cons' : unreferenced local variable
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\change\change\changling.cpp(40): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\change\change\changling.cpp(41): error C2297: '%' : illegal, right operand has type 'double'
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\change\change\changling.cpp(42): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\change\change\changling.cpp(43): error C2297: '%' : illegal, right operand has type 'double'
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\change\change\changling.cpp(44): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\change\change\changling.cpp(45): error C2297: '%' : illegal, right operand has type 'double'
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\change\change\changling.cpp(46): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\change\change\changling.cpp(47): error C2297: '%' : illegal, right operand has type 'double'
+     1>Done Building Project "C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Change\Change\Change.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.37

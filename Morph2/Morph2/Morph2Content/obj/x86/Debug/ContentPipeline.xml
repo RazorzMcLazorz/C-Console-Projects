@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>back7.png</Source>
+      <Name>back7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\back7.xnb</Output>
+      <Time>2016-11-11T09:36:52.3358392-07:00</Time>
+    </Item>
+    <Item>
+      <Source>demon.png</Source>
+      <Name>demon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\demon.xnb</Output>
+      <Time>2016-11-11T09:36:52.3670394-07:00</Time>
+    </Item>
+    <Item>
+      <Source>dragon2.png</Source>
+      <Name>dragon2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\dragon2.xnb</Output>
+      <Time>2016-11-11T09:36:52.3826395-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fossil.png</Source>
+      <Name>fossil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\fossil.xnb</Output>
+      <Time>2016-11-11T09:36:52.4138397-07:00</Time>
+    </Item>
+    <Item>
+      <Source>skeleton.png</Source>
+      <Name>skeleton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\skeleton.xnb</Output>
+      <Time>2016-11-11T09:36:52.46064-07:00</Time>
+    </Item>
+    <Item>
+      <Source>trex.png</Source>
+      <Name>trex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\trex.xnb</Output>
+      <Time>2016-11-11T09:36:52.4918402-07:00</Time>
+    </Item>
+    <Item>
+      <Source>zombie.png</Source>
+      <Name>zombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\zombie.xnb</Output>
+      <Time>2016-11-11T09:36:52.5230404-07:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2016-11-11T09:37:11.0379793-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-02-09T12:45:06.8857421-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

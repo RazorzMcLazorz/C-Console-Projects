@@ -1,0 +1,23 @@
+﻿Build started 4/12/2017 9:23:22 AM.
+     1>Project "C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Qball\Qball\Qball.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Qball.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Driver.cpp
+         Driver.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Qball\Debug\Qball.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Qball.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Qball\Debug\Qball.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Qball\Debug\Qball.lib" /MACHINE:X86 Debug\Driver.obj
+         Debug\Node.obj
+         Debug\Queue.obj
+         LINK : C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Qball\Debug\Qball.exe not found or not built by the last incremental link; performing full link
+         Qball.vcxproj -> C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Qball\Debug\Qball.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Qball\Debug\Qball.exe;#1" /manifest Debug\Qball.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Qball.unsuccessfulbuild".
+         Touching "Debug\Qball.lastbuildstate".
+     1>Done Building Project "C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Qball\Qball\Qball.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.88

@@ -1,0 +1,2 @@
+/Volumes/NATESUSB/programs/ConsoleApplication1/ConsoleApplication1/obj/x86/Debug/ConsoleApplication1.csprojResolveAssemblyReference.cache
+/Volumes/NATESUSB/programs/ConsoleApplication1/ConsoleApplication1/obj/x86/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache

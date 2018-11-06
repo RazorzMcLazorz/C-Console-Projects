@@ -1,0 +1,2 @@
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHighContent\obj\x86\Debug\LehiHighContent.contentprojResolveAssemblyReference.cache
+E:\LehiHigh\LehiHigh\LehiHighContent\obj\x86\Debug\LehiHighContent.contentprojResolveAssemblyReference.cache

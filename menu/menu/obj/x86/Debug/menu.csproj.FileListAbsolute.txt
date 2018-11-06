@@ -1,0 +1,4 @@
+C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\menu\menu\bin\Debug\menu.exe
+C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\menu\menu\bin\Debug\menu.pdb
+C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\menu\menu\obj\x86\Debug\menu.exe
+C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\menu\menu\obj\x86\Debug\menu.pdb

@@ -1,0 +1,15 @@
+﻿Build started 1/31/2017 10:09:38 AM.
+     1>Project "E:\programs\TIME\T.I.M.E. Story (1)\T.I.M.E. Story (1).vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\T.I.M.E. Story (1).unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Time.cpp
+         Time.cpp
+     1>e:\programs\time\t.i.m.e. story (1)\time.cpp(10): warning C4101: 'imer' : unreferenced local variable
+     1>e:\programs\time\t.i.m.e. story (1)\time.cpp(9): warning C4101: 'timer' : unreferenced local variable
+     1>e:\programs\time\t.i.m.e. story (1)\time.cpp(26): error C4716: 'second' : must return a value
+     1>Done Building Project "E:\programs\TIME\T.I.M.E. Story (1)\T.I.M.E. Story (1).vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.70

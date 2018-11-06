@@ -1,0 +1,24 @@
+﻿Build started 1/31/2017 9:39:15 AM.
+     1>Project "C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Rose Stink\Rose Stink\Rose Stink.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Rose Stink\Release\".
+       InitializeBuildStatus:
+         Creating "Release\Rose Stink.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Rose.cpp
+         Rose.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Rose Stink\Release\Rose Stink.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Rose Stink.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Rose Stink\Release\Rose Stink.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Rose Stink\Release\Rose Stink.lib" /MACHINE:X86 Release\Rose.obj
+         Generating code
+         Finished generating code
+         Rose Stink.vcxproj -> C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Rose Stink\Release\Rose Stink.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Rose Stink\Release\Rose Stink.exe;#1" /manifest "Release\Rose Stink.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\Rose Stink.unsuccessfulbuild".
+         Touching "Release\Rose Stink.lastbuildstate".
+     1>Done Building Project "C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\Rose Stink\Rose Stink\Rose Stink.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.41

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Yoda", "Yoda\Yoda.vcxproj", "{CA025889-FDA5-4235-97B4-0CC283C2F18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA025889-FDA5-4235-97B4-0CC283C2F18E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA025889-FDA5-4235-97B4-0CC283C2F18E}.Debug|Win32.Build.0 = Debug|Win32
+		{CA025889-FDA5-4235-97B4-0CC283C2F18E}.Release|Win32.ActiveCfg = Release|Win32
+		{CA025889-FDA5-4235-97B4-0CC283C2F18E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

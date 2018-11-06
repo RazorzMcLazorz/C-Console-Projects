@@ -1,0 +1,14 @@
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\back7.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\demon.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\dragon2.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\fossil.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\skeleton.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\trex.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\zombie.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Content\font.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Morph2.exe
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\bin\x86\Debug\Morph2.pdb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\obj\x86\Debug\Morph2.csprojResolveAssemblyReference.cache
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\obj\x86\Debug\Morph2.exe
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\Morph2\Morph2\Morph2\obj\x86\Debug\Morph2.pdb

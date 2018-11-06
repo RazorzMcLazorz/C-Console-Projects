@@ -1,0 +1,6 @@
+C:\Users\worthnat000\AppData\Local\Temporary Projects\HolyWar\bin\Debug\HolyWar.exe
+C:\Users\worthnat000\AppData\Local\Temporary Projects\HolyWar\bin\Debug\HolyWar.pdb
+C:\Users\worthnat000\AppData\Local\Temporary Projects\HolyWar\obj\x86\Debug\HolyWar.exe
+C:\Users\worthnat000\AppData\Local\Temporary Projects\HolyWar\obj\x86\Debug\HolyWar.pdb
+C:\Users\worthnat000\documents\visual studio 2010\Projects\HolyWar\HolyWar\obj\x86\Debug\HolyWar.exe
+C:\Users\worthnat000\documents\visual studio 2010\Projects\HolyWar\HolyWar\obj\x86\Debug\HolyWar.pdb

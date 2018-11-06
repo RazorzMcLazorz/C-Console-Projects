@@ -1,0 +1,21 @@
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\0.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\1.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\2.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\3.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\4.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\5.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\6.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\7.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\8.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\9.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\Back.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\BaseHero.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\Batman.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\BatWing.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\Content\Superman.xnb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\hero classes.exe
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\bin\x86\Debug\hero classes.pdb
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\obj\x86\Debug\hero classes.csprojResolveAssemblyReference.cache
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\obj\x86\Debug\hero classes.exe
+C:\Users\youngnat002.ALPINE\Documents\Visual Studio 2010\Projects\hero classes\hero classes\hero classes\obj\x86\Debug\hero classes.pdb

@@ -1,0 +1,6 @@
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\JoeChangeless\bin\Debug\JoeChangeless.exe
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\JoeChangeless\bin\Debug\JoeChangeless.pdb
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\JoeChangeless\obj\x86\Debug\JoeChangeless.exe
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\JoeChangeless\obj\x86\Debug\JoeChangeless.pdb
+C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\JoeChangeless\JoeChangeless\obj\x86\Debug\JoeChangeless.exe
+C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\JoeChangeless\JoeChangeless\obj\x86\Debug\JoeChangeless.pdb

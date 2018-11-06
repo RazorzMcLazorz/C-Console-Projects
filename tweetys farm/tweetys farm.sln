@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tweetys farm", "tweetys farm\tweetys farm.vcxproj", "{6DFA6642-F880-4E6B-9260-9B72C207B7BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DFA6642-F880-4E6B-9260-9B72C207B7BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6DFA6642-F880-4E6B-9260-9B72C207B7BE}.Debug|Win32.Build.0 = Debug|Win32
+		{6DFA6642-F880-4E6B-9260-9B72C207B7BE}.Release|Win32.ActiveCfg = Release|Win32
+		{6DFA6642-F880-4E6B-9260-9B72C207B7BE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

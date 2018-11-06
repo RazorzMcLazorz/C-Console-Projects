@@ -1,0 +1,6 @@
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\TweedysFarm\bin\Debug\TweedysFarm.exe
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\TweedysFarm\bin\Debug\TweedysFarm.pdb
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\TweedysFarm\obj\x86\Debug\TweedysFarm.exe
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\TweedysFarm\obj\x86\Debug\TweedysFarm.pdb
+C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\TweedysFarm\TweedysFarm\obj\x86\Debug\TweedysFarm.exe
+C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\TweedysFarm\TweedysFarm\obj\x86\Debug\TweedysFarm.pdb

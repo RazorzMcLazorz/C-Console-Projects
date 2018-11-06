@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "odometer", "odometer\odometer.vcxproj", "{613E4855-6B14-4063-BA7F-340B3F2C9429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{613E4855-6B14-4063-BA7F-340B3F2C9429}.Debug|Win32.ActiveCfg = Debug|Win32
+		{613E4855-6B14-4063-BA7F-340B3F2C9429}.Debug|Win32.Build.0 = Debug|Win32
+		{613E4855-6B14-4063-BA7F-340B3F2C9429}.Release|Win32.ActiveCfg = Release|Win32
+		{613E4855-6B14-4063-BA7F-340B3F2C9429}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

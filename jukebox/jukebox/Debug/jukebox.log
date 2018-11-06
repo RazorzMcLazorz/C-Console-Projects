@@ -1,0 +1,21 @@
+﻿Build started 1/17/2017 10:06:11 AM.
+     1>Project "c:\Users\youngnat002.alpine\documents\visual studio 2010\Projects\jukebox\jukebox\jukebox.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\jukebox.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\jukebox.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Music.cpp
+         Music.cpp
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\jukebox\jukebox\music.cpp(14): error C2065: 'choice' : undeclared identifier
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\jukebox\jukebox\music.cpp(16): error C2065: 'choice' : undeclared identifier
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\jukebox\jukebox\music.cpp(16): error C2050: switch expression not integral
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\jukebox\jukebox\music.cpp(20): error C2143: syntax error : missing ';' before 'case'
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\jukebox\jukebox\music.cpp(22): error C2143: syntax error : missing ';' before 'case'
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\jukebox\jukebox\music.cpp(24): error C2143: syntax error : missing ';' before 'case'
+     1>c:\users\youngnat002.alpine\documents\visual studio 2010\projects\jukebox\jukebox\music.cpp(26): error C2143: syntax error : missing ';' before '}'
+     1>Done Building Project "c:\Users\youngnat002.alpine\documents\visual studio 2010\Projects\jukebox\jukebox\jukebox.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.85

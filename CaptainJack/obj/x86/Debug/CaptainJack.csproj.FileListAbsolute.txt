@@ -1,0 +1,6 @@
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\CaptainJack\bin\Debug\CaptainJack.exe
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\CaptainJack\bin\Debug\CaptainJack.pdb
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\CaptainJack\obj\x86\Debug\CaptainJack.exe
+C:\Users\youngnat002.ALPINE\AppData\Local\Temporary Projects\CaptainJack\obj\x86\Debug\CaptainJack.pdb
+C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\CaptainJack\CaptainJack\obj\x86\Debug\CaptainJack.exe
+C:\Users\youngnat002.ALPINE\documents\visual studio 2010\Projects\CaptainJack\CaptainJack\obj\x86\Debug\CaptainJack.pdb

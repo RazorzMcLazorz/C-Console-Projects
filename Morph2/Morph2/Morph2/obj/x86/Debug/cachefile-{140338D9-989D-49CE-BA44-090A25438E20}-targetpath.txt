@@ -1,0 +1,8 @@
+Content\back7.xnb
+Content\demon.xnb
+Content\dragon2.xnb
+Content\fossil.xnb
+Content\skeleton.xnb
+Content\trex.xnb
+Content\zombie.xnb
+Content\font.xnb

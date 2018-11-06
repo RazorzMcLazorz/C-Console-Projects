@@ -1,0 +1,46 @@
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\obj\x86\Debug\LehiHigh.csprojResolveAssemblyReference.cache
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\obj\x86\Debug\LehiHigh.Form1.resources
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\obj\x86\Debug\LehiHigh.csproj.GenerateResource.Cache
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\LehiHigh.exe
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\LehiHigh.pdb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\obj\x86\Debug\LehiHigh.exe
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\obj\x86\Debug\LehiHigh.pdb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\0.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\1.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\2.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\3.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\4.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\5.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\6.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\7.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\8.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\Back.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\MisRoll.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\Puck1.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\Student.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\Student1.xnb
+C:\Users\worthnat000\Documents\Visual Studio 2010\Projects\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\AuthoritySong.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\0.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\1.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\2.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\3.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\4.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\5.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\6.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\7.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\8.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\Back.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\MisRoll.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\Puck1.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\Student.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\Student1.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\Content\AuthoritySong.xnb
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\LehiHigh.exe
+E:\LehiHigh\LehiHigh\LehiHigh\bin\x86\Debug\LehiHigh.pdb
+E:\LehiHigh\LehiHigh\LehiHigh\obj\x86\Debug\LehiHigh.csprojResolveAssemblyReference.cache
+E:\LehiHigh\LehiHigh\LehiHigh\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\LehiHigh\LehiHigh\LehiHigh\obj\x86\Debug\LehiHigh.Form1.resources
+E:\LehiHigh\LehiHigh\LehiHigh\obj\x86\Debug\LehiHigh.csproj.GenerateResource.Cache
+E:\LehiHigh\LehiHigh\LehiHigh\obj\x86\Debug\LehiHigh.exe
+E:\LehiHigh\LehiHigh\LehiHigh\obj\x86\Debug\LehiHigh.pdb
